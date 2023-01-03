@@ -16,6 +16,8 @@ After cleansing the data from missing values, outliers, and data that cluttered 
 
 With about 16k data points to train the model on, I was able to achieve about 83% accuracy with a margin of 1.5% (so about 15.5 to 18.5 error). This is comparable with different models on this data set as follows:
 
+**VIEW FILE AS RAW FOR TABLE TO LOAD PROPERLY**
+
 |    Algorithm               Error
 | -- ----------------        -----
 | 1  C4.5                    15.54
