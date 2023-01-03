@@ -39,7 +39,7 @@ With about 16k data points to train the model on, I was able to achieve about 83
 
 All of the values provided in the data set are as follow, where continuous represents a number that is not constrained:
 
-`
+
 age: continuous.
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 fnlwgt: continuous.
@@ -54,7 +54,7 @@ capital-gain: continuous.
 capital-loss: continuous.
 hours-per-week: continuous.
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-`
+
 
 ## Contributing
 
